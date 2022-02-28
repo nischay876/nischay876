@@ -19,12 +19,16 @@
 
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/oggy"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="oggy" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/oggy"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="oggy" /></a>
+<p align="center"><a href="https://www.buymeacoffee.com/oggy"> <img align="center" src="https://raw.githubusercontent.com/everdrone/coolbadge/master/badges/Paypal/Beer/Dark/Short.png" height="46" width="272" alt="oggy" /></a></p><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nischay876&show_icons=true&theme=dark&locale=en&layout=compact" alt="nischay876" /></p>
+## 🔖 My Statistics
+&nbsp;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nischay876&show_icons=true&theme=dark&locale=en" alt="nischay876" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nischay876&theme=dark" alt="nischay876" /></p>
+<p align="center"><a href="https://github.com/nischay876/">
+<img src="https://github-readme-stats.vercel.app/api?username=nischay876&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" /></a><a href="https://github.com/nischay876/">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischay876&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" /></a><a href="https://github.com/nischay876/">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nischay876&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=00ff99&ring=00ff99&stroke=FFFFFFFF)](https://git.io/streak-stats" /></a>
+<a href="https://github.com/nischay876"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nischay876&bg_color=0D1117&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true" /></a></p>
 
 <p align="center"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg">  <img src="http://ForTheBadge.com/images/badges/built-with-swag.svg"></a></p><p align="center">
