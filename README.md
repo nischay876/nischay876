@@ -31,4 +31,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=nischay876&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=00ff99&ring=00ff99&stroke=FFFFFFFF)](https://git.io/streak-stats" /></a>
 <a href="https://github.com/nischay876"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nischay876&bg_color=0D1117&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true" /></a></p>
 
+<p align="center"><a href="https://open.spotify.com/user/31wjlkmlbvkp7bi2643u7tfa4u7e"> <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31wjlkmlbvkp7bi2643u7tfa4u7e&width=800" alt="oggy" /></a>
+
 <p align="center"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg">  <img src="http://ForTheBadge.com/images/badges/built-with-swag.svg"></a></p><p align="center">
