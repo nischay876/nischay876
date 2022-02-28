@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm OGGY</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nischay876&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="nischay876" /> </p>
+<br /><p align="center"><img src="https://i.imgur.com/CW6sCf8.gif"></a></p><p align="center">
+<img src="https://komarev.com/ghpvc/?username=nischay876&label=Profile%20views&color=0e75b6&style=flat-square" alt="nischay876" /> </p>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-
 
 - 👨‍💻 All of my projects are available at [**github.oggy.ga**](https://github.oggy.ga)
 
