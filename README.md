@@ -20,7 +20,7 @@
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/oggy"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="oggy" /></a>
-<p align="center"><a href="https://www.buymeacoffee.com/oggy"> <img align="center" src="https://raw.githubusercontent.com/everdrone/coolbadge/master/badges/Paypal/Beer/Dark/Short.png" height="46" width="272" alt="oggy" /></a></p><br>
+<p align="center"><a href="https://paypal.me/nischay02"> <img align="center" src="https://raw.githubusercontent.com/everdrone/coolbadge/master/badges/Paypal/Beer/Dark/Short.png" height="46" width="272" alt="oggy" /></a></p><br>
 
 ## 🔖 My Statistics
 &nbsp;
