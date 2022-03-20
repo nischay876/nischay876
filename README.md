@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=nischay876&label=Profile%20views&color=0e75b6&style=flat-square" alt="nischay876" /> </p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [**github.oggy.ga**](https://github.oggy.ga)
+- 👨‍💻 All of my projects are available at [**github.oggy.ga**](https://github.com/nischay876?tab=repositories)
 
 - 📫 How to reach me **mail@oggy.ga**
 
