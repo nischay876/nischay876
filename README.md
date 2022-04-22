@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://instagram.com/nischay_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nischay_02" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucli7rsvdd8ecnjgi-axw1ia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucli7rsvdd8ecnjgi-axw1ia" height="30" width="40" /></a>
-<a href="https://discord.gg/aYBB9eXe2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aYBB9eXe2g" height="30" width="40" /></a></p>
+<a href="https://discord.gg/N28ZrdrhtA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="N28ZrdrhtA" height="30" width="40" /></a></p>
 <p align="center"><a href="https://discord.com/users/813561253175361558"> <img align="center" src="https://lanyard.cnrad.dev/api/813561253175361558"></a></p><p align="center">
 <p align="center"><a href="https://discord.gg/N28ZrdrhtA"> <img align="center" src="https://discordapp.com/api/guilds/890319313045717022/widget.png?style=banner4"></a></p><p align="center">
 
