@@ -20,7 +20,7 @@
 
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/oggy"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="oggy" /></a></p><br>
+<p align="center"><iframe src="https://github.com/sponsors/nischay876/button" title="Sponsor nischay876" height="35" width="116" style="border: 0;"></iframe><br>
 
 ## 🔖 My Statistics
 &nbsp;
