@@ -21,7 +21,7 @@
 
 <h3 align="center">Support:</h3>
 
-<a href="https://github.com/sponsors/nischay876" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/6RTV5O5.png" alt="zapier" /> </a>
+[![Github Sponsorship](https://raw.githubusercontent.com/mechPenSketch/mechPenSketch/master/img/github_sponsor_btn.svg)](https://github.com/sponsors/nischay876)
 
 ## 🔖 My Statistics
 &nbsp;
