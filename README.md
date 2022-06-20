@@ -21,7 +21,7 @@
 
 <h3 align="center">Support:</h3>
 
-<a href="https://github.com/sponsors/nischay876" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/6RTV5O5.png" alt="zapier" width="600" height="225"/> </a>
+<a href="https://github.com/sponsors/nischay876" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/6RTV5O5.png" alt="zapier" /> </a>
 
 ## 🔖 My Statistics
 &nbsp;
