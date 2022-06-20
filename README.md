@@ -20,7 +20,7 @@
 
 
 <h3 align="center">Support:</h3>
-<p align="center"><iframe src="https://github.com/sponsors/nischay876/button"></iframe><br>
+<iframe src="https://github.com/sponsors/nischay876/card" title="Sponsor nischay876" height="225" width="600" style="border: 0;"></iframe>
 
 ## 🔖 My Statistics
 &nbsp;
