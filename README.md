@@ -20,9 +20,9 @@
 
 
 <h3 align="center">Support:</h3>
-<center>
-[![Github Sponsorship](https://raw.githubusercontent.com/mechPenSketch/mechPenSketch/master/img/github_sponsor_btn.svg)](https://github.com/sponsors/nischay876)
-</center>
+
+<p align="center"><a href="https://github.com/sponsers/nischay876"> <img align="center" src="https://raw.githubusercontent.com/mechPenSketch/mechPenSketch/master/img/github_sponsor_btn.svg" alt="sponsers" /></a>
+
 ## 🔖 My Statistics
 &nbsp;
 
