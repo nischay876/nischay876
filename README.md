@@ -23,6 +23,8 @@
 
 <p align="center"><a href="https://github.com/sponsors/nischay876"> <img align="center" src="https://raw.githubusercontent.com/mechPenSketch/mechPenSketch/master/img/github_sponsor_btn.svg" alt="sponsers" /></a>
 
+<p align="center"><a href="https://paypal.me/nischay02"> <img align="center" src="https://i.imgur.com/KL5qZyZ.png" alt="sponsers" /></a>
+
 ## 🔖 My Statistics
 &nbsp;
 
