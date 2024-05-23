@@ -92,8 +92,11 @@ Highly skilled and versatile professional with extensive expertise in communicat
 
 ---
 
+
 ## **Project Showcase**
 ### **Web Development Projects**
-- **v-stitch.com**: A Clothing Brand Website
-- **glasshost.net**: A Hosting Provider Based Website
-- **alicexue.com**:  A advertising photographer brand website
+- **[v-stitch.com](https://v-stitch.com)**: A Clothing Brand Website
+- **[glasshost.net](https://glasshost.net)**: A Hosting Provider Based Website
+- **[alicexue.com](https://alicexue.com)**: An advertising photographer brand website
+- **[dash.img.bio](https://dash.img.bio)**: A Dashboard For Managing Images
+- **[posterior](https://github.com/nischay876/posterior)**: Image managing/uploading dashboard with login system using PHP
